@@ -1,5 +1,5 @@
-{    "homepage": "https://sushilraj176.github.io/taskreact",
-  "name": "react-task-tracker",
+{    "homepage": "https://sushilraj176.github.io/reacttask",
+  "name": "taskreact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
