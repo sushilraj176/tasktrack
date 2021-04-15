@@ -6,6 +6,7 @@ import Tasks from './components/Tasks'
 import Task from './components/Task'
 import AddTask from './components/AddTask'
 import About from './components/About'
+import Button from './components/Button'
 
 const App = () => {
   const [showAddTask, setShowAddTask] = useState(false)
