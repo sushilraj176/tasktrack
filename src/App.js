@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import Tasks from './components/Tasks'
+import Task from './components/Task'
 import AddTask from './components/AddTask'
 import About from './components/About'
 
